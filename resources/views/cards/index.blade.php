@@ -4,6 +4,6 @@
 	<h1>All cards</h1>
 
 	@foreach($cards as $card)
-		<div>{{ $card->title }}</div>
+		<a href="/cards/{{$card->id}}"><div>{{ $card->title }}</div></a>
 	@endforeach
 @stop
