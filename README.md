@@ -1,1 +1,1 @@
-# lrv_from_scratch
+# Example code from lesson: https://laracasts.com/series/laravel-5-from-scratch
